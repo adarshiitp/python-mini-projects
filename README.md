@@ -10,7 +10,7 @@ This repository contains a collection of beginner-friendly Python mini projects 
 | calculator.py            | Console-based calculator with operations |
 | password_generator.py    | Strong password generator with clipboard |
 | rps.py                   | Classic Rock Paper Scissors game         |
-| todo_list.py             | Simple to-do list with add/delete        |
+| to-do-list.py            | Simple to-do list with add/delete        |
 | quiz_game.py             | MCQ quiz game with scoring system        |
 
 ## ▶️ How to Run
